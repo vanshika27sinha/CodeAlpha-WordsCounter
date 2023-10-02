@@ -6,7 +6,7 @@ public class CHARCOUNT extends JFrame implements ActionListener {
     JTextArea t;
     JButton button1,button2;
     CHARCOUNT(){
-        super("word counter by vanshika");
+        super("Word Counter by Vanshika");
         t=new JTextArea();
         t.setBounds(60,60,350,250);
         button1=new JButton("word");
